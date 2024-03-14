@@ -1,0 +1,13 @@
+package com.universitas.indraprasta;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class IndraprastaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
